@@ -3,7 +3,7 @@
 A clean, responsive, and professional personal portfolio website built using **HTML5 and CSS3**. This project features a two-page layout designed to introduce myself and provide an easy way for visitors to get in touch.
 
 ## 🚀 Live Demo
-You can view the live website here: **[link]**
+You can view the live website here: **[https://dharshinigopi2410-byte.github.io/portfolio-simple-website/]**
 
 ## ✨ Features
 * **Two-Page Architecture:** A clean separation between the main profile page and the communication page.
